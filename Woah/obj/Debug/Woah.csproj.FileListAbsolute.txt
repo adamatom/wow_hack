@@ -1,0 +1,9 @@
+C:\Documents and Settings\Adam\My Documents\Visual Studio 2008\Projects\WoahFish\Woah\obj\Debug\Woah.exe
+C:\Documents and Settings\Adam\My Documents\Visual Studio 2008\Projects\WoahFish\Woah\obj\Debug\Woah.pdb
+C:\Documents and Settings\Adam\My Documents\Visual Studio 2008\Projects\WoahFish\Woah\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Adam\My Documents\Visual Studio 2008\Projects\WoahFish\Woah\obj\Debug\Woah.WoahFish.resources
+C:\Documents and Settings\Adam\My Documents\Visual Studio 2008\Projects\WoahFish\Woah\obj\Debug\Woah.Properties.Resources.resources
+C:\Documents and Settings\Adam\My Documents\Visual Studio 2008\Projects\WoahFish\Woah\obj\Debug\Woah.csproj.GenerateResource.Cache
+C:\Documents and Settings\Adam\My Documents\Visual Studio 2008\Projects\WoahFish\Woah\bin\Debug\Woah.exe
+C:\Documents and Settings\Adam\My Documents\Visual Studio 2008\Projects\WoahFish\Woah\bin\Debug\Woah.pdb
+C:\Documents and Settings\Adam\My Documents\Visual Studio 2008\Projects\WoahFish\Woah\bin\Debug\Meebey.SmartIrc4net.dll

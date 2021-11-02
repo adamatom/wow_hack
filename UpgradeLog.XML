@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Woah">
+</Property><Property Name="Solution File" Value="C:\Documents and Settings\Adam Labbe\My Documents\Visual Studio 2005\Projects\Woah\WoahFish\Woah.sln">
+</Property><Property Name="User Options File" Value="C:\Documents and Settings\Adam Labbe\My Documents\Visual Studio 2005\Projects\Woah\WoahFish\Woah.suo">
+</Property><Property Name="Date" Value="Friday, June 05, 2009">
+</Property><Property Name="Time" Value="10:28 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Woah.sln" Description="File successfully backed up as C:\Documents and Settings\Adam Labbe\My Documents\Visual Studio 2005\Projects\Woah\WoahFish\Backup\Woah.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Woah.suo" Description="File successfully backed up as C:\Documents and Settings\Adam Labbe\My Documents\Visual Studio 2005\Projects\Woah\WoahFish\Backup\Woah.suo">
+</Event><Event ErrorLevel="0" Project="Woah" Source="Woah\Woah.csproj" Description="Project file successfully backed up as C:\Documents and Settings\Adam Labbe\My Documents\Visual Studio 2005\Projects\Woah\WoahFish\Backup\Woah\Woah.csproj">
+</Event><Event ErrorLevel="0" Project="Woah" Source="Woah\Cooldowns.cs" Description="File successfully backed up as C:\Documents and Settings\Adam Labbe\My Documents\Visual Studio 2005\Projects\Woah\WoahFish\Backup\Woah\Cooldowns.cs">
+</Event><Event ErrorLevel="0" Project="Woah" Source="Woah\FishBot.cs" Description="File successfully backed up as C:\Documents and Settings\Adam Labbe\My Documents\Visual Studio 2005\Projects\Woah\WoahFish\Backup\Woah\FishBot.cs">
+</Event><Event ErrorLevel="0" Project="Woah" Source="Woah\Form1.cs" Description="File successfully backed up as C:\Documents and Settings\Adam Labbe\My Documents\Visual Studio 2005\Projects\Woah\WoahFish\Backup\Woah\Form1.cs">
+</Event><Event ErrorLevel="0" Project="Woah" Source="Woah\Form1.Designer.cs" Description="File successfully backed up as C:\Documents and Settings\Adam Labbe\My Documents\Visual Studio 2005\Projects\Woah\WoahFish\Backup\Woah\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Woah" Source="Woah\IRCBot.cs" Description="File successfully backed up as C:\Documents and Settings\Adam Labbe\My Documents\Visual Studio 2005\Projects\Woah\WoahFish\Backup\Woah\IRCBot.cs">
+</Event><Event ErrorLevel="0" Project="Woah" Source="Woah\MemoryRange.cs" Description="File successfully backed up as C:\Documents and Settings\Adam Labbe\My Documents\Visual Studio 2005\Projects\Woah\WoahFish\Backup\Woah\MemoryRange.cs">
+</Event><Event ErrorLevel="0" Project="Woah" Source="Woah\MemoryReader.cs" Description="File successfully backed up as C:\Documents and Settings\Adam Labbe\My Documents\Visual Studio 2005\Projects\Woah\WoahFish\Backup\Woah\MemoryReader.cs">
+</Event><Event ErrorLevel="0" Project="Woah" Source="Woah\PlayerNames.cs" Description="File successfully backed up as C:\Documents and Settings\Adam Labbe\My Documents\Visual Studio 2005\Projects\Woah\WoahFish\Backup\Woah\PlayerNames.cs">
+</Event><Event ErrorLevel="0" Project="Woah" Source="Woah\Program.cs" Description="File successfully backed up as C:\Documents and Settings\Adam Labbe\My Documents\Visual Studio 2005\Projects\Woah\WoahFish\Backup\Woah\Program.cs">
+</Event><Event ErrorLevel="0" Project="Woah" Source="Woah\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Documents and Settings\Adam Labbe\My Documents\Visual Studio 2005\Projects\Woah\WoahFish\Backup\Woah\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Woah" Source="Woah\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Documents and Settings\Adam Labbe\My Documents\Visual Studio 2005\Projects\Woah\WoahFish\Backup\Woah\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Woah" Source="Woah\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Documents and Settings\Adam Labbe\My Documents\Visual Studio 2005\Projects\Woah\WoahFish\Backup\Woah\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Woah" Source="Woah\WoahBotBase.cs" Description="File successfully backed up as C:\Documents and Settings\Adam Labbe\My Documents\Visual Studio 2005\Projects\Woah\WoahFish\Backup\Woah\WoahBotBase.cs">
+</Event><Event ErrorLevel="0" Project="Woah" Source="Woah\WoahEnvironment.cs" Description="File successfully backed up as C:\Documents and Settings\Adam Labbe\My Documents\Visual Studio 2005\Projects\Woah\WoahFish\Backup\Woah\WoahEnvironment.cs">
+</Event><Event ErrorLevel="0" Project="Woah" Source="Woah\WoahObject.cs" Description="File successfully backed up as C:\Documents and Settings\Adam Labbe\My Documents\Visual Studio 2005\Projects\Woah\WoahFish\Backup\Woah\WoahObject.cs">
+</Event><Event ErrorLevel="0" Project="Woah" Source="Woah\WoahQueue.cs" Description="File successfully backed up as C:\Documents and Settings\Adam Labbe\My Documents\Visual Studio 2005\Projects\Woah\WoahFish\Backup\Woah\WoahQueue.cs">
+</Event><Event ErrorLevel="0" Project="Woah" Source="Woah\Properties\Settings.settings" Description="File successfully backed up as C:\Documents and Settings\Adam Labbe\My Documents\Visual Studio 2005\Projects\Woah\WoahFish\Backup\Woah\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Woah" Source="Woah\Form1.resx" Description="File successfully backed up as C:\Documents and Settings\Adam Labbe\My Documents\Visual Studio 2005\Projects\Woah\WoahFish\Backup\Woah\Form1.resx">
+</Event><Event ErrorLevel="0" Project="Woah" Source="Woah\Properties\Resources.resx" Description="File successfully backed up as C:\Documents and Settings\Adam Labbe\My Documents\Visual Studio 2005\Projects\Woah\WoahFish\Backup\Woah\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Woah" Source="Woah\Icon1.ico" Description="File successfully backed up as C:\Documents and Settings\Adam Labbe\My Documents\Visual Studio 2005\Projects\Woah\WoahFish\Backup\Woah\Icon1.ico">
+</Event><Event ErrorLevel="0" Project="Woah" Source="Woah\Icon2.ico" Description="File successfully backed up as C:\Documents and Settings\Adam Labbe\My Documents\Visual Studio 2005\Projects\Woah\WoahFish\Backup\Woah\Icon2.ico">
+</Event><Event ErrorLevel="0" Project="Woah" Source="Woah\Woah.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Woah" Source="Woah\Woah.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Woah.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Woah.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Woah" Source="Woah\Woah.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

@@ -1,0 +1,8 @@
+## Interface: 30100
+## Title: Face Smasher
+## Notes: A Death Knight addon for keeping your priorities straight.
+## Author: Aytherine, aka Falie
+## Version: 1.291
+## SavedVariables: FaceSmasherdb
+
+FaceSmasher.lua

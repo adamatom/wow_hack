@@ -1,0 +1,67 @@
+C:\Documents and Settings\Adam Labbe\My Documents\Visual Studio 2005\Projects\WoahFish\Woah\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Adam Labbe\My Documents\Visual Studio 2005\Projects\WoahFish\Woah\obj\Debug\Woah.Icon1.ico
+C:\Documents and Settings\Adam Labbe\My Documents\Visual Studio 2005\Projects\WoahFish\Woah\obj\Debug\Woah.Icon2.ico
+C:\Documents and Settings\Adam Labbe\My Documents\Visual Studio 2005\Projects\WoahFish\Woah\obj\Debug\Woah.Properties.Resources.resources
+C:\Documents and Settings\Adam Labbe\My Documents\Visual Studio 2005\Projects\WoahFish\Woah\obj\Debug\Woah.csproj.GenerateResource.Cache
+C:\Documents and Settings\Adam Labbe\My Documents\Visual Studio 2005\Projects\WoahFish\Woah\obj\Debug\Woah.WoahFish.resources
+C:\Documents and Settings\Adam Labbe\My Documents\Visual Studio 2005\Projects\WoahFish\Woah\bin\Debug\Woah.exe
+C:\Documents and Settings\Adam Labbe\My Documents\Visual Studio 2005\Projects\WoahFish\Woah\bin\Debug\Woah.pdb
+C:\Documents and Settings\Adam Labbe\My Documents\Visual Studio 2005\Projects\WoahFish\Woah\obj\Debug\Woah.exe
+C:\Documents and Settings\Adam Labbe\My Documents\Visual Studio 2005\Projects\WoahFish\Woah\obj\Debug\Woah.pdb
+G:\WoahFish\Woah\obj\Debug\Woah.exe
+G:\WoahFish\Woah\obj\Debug\Woah.pdb
+G:\WoahFish\Woah\obj\Debug\ResolveAssemblyReference.cache
+G:\WoahFish\Woah\obj\Debug\Woah.Icon1.ico
+G:\WoahFish\Woah\obj\Debug\Woah.Icon2.ico
+G:\WoahFish\Woah\obj\Debug\Woah.WoahFish.resources
+G:\WoahFish\Woah\obj\Debug\Woah.Properties.Resources.resources
+G:\WoahFish\Woah\obj\Debug\Woah.csproj.GenerateResource.Cache
+G:\WoahFish\Woah\bin\Debug\Woah.exe
+G:\WoahFish\Woah\bin\Debug\Woah.pdb
+G:\WoahFish\Woah\bin\Debug\Meebey.SmartIrc4net.dll
+G:\WoahFish\Woah\bin\Release\Woah.exe
+G:\WoahFish\Woah\bin\Release\Woah.pdb
+G:\WoahFish\Woah\bin\Release\Meebey.SmartIrc4net.dll
+G:\WoahFish\Woah\obj\Release\ResolveAssemblyReference.cache
+G:\WoahFish\Woah\obj\Release\Woah.Icon1.ico
+G:\WoahFish\Woah\obj\Release\Woah.Icon2.ico
+G:\WoahFish\Woah\obj\Release\Woah.WoahFish.resources
+G:\WoahFish\Woah\obj\Release\Woah.Properties.Resources.resources
+G:\WoahFish\Woah\obj\Release\Woah.csproj.GenerateResource.Cache
+G:\WoahFish\Woah\obj\Release\Woah.exe
+G:\WoahFish\Woah\obj\Release\Woah.pdb
+C:\Documents and Settings\BAC\Desktop\WoahFish\Woah\obj\Debug\Woah.exe
+C:\Documents and Settings\BAC\Desktop\WoahFish\Woah\obj\Debug\Woah.pdb
+G:\New Folder\WoahFish\Woah\obj\Debug\Woah.exe
+G:\New Folder\WoahFish\Woah\obj\Debug\Woah.pdb
+G:\New Folder\WoahFish\Woah\bin\Debug\Woah.exe
+G:\New Folder\WoahFish\Woah\bin\Debug\Woah.pdb
+G:\New Folder\WoahFish\Woah\bin\Debug\Meebey.SmartIrc4net.dll
+G:\New Folder\WoahFish\Woah\obj\Debug\ResolveAssemblyReference.cache
+G:\New Folder\WoahFish\Woah\obj\Debug\Woah.Icon1.ico
+G:\New Folder\WoahFish\Woah\obj\Debug\Woah.Icon2.ico
+G:\New Folder\WoahFish\Woah\obj\Debug\Woah.WoahFish.resources
+G:\New Folder\WoahFish\Woah\obj\Debug\Woah.Properties.Resources.resources
+G:\New Folder\WoahFish\Woah\obj\Debug\Woah.csproj.GenerateResource.Cache
+C:\Documents and Settings\Adam Labbe\My Documents\Visual Studio 2005\Projects\Woah\WoahFish\Woah\obj\Debug\Woah.exe
+C:\Documents and Settings\Adam Labbe\My Documents\Visual Studio 2005\Projects\Woah\WoahFish\Woah\obj\Debug\Woah.pdb
+C:\Documents and Settings\Adam Labbe\My Documents\Visual Studio 2005\Projects\Woah\WoahFish\Woah\bin\Debug\Woah.exe
+C:\Documents and Settings\Adam Labbe\My Documents\Visual Studio 2005\Projects\Woah\WoahFish\Woah\bin\Debug\Woah.pdb
+C:\Documents and Settings\Adam Labbe\My Documents\Visual Studio 2005\Projects\Woah\WoahFish\Woah\bin\Debug\Meebey.SmartIrc4net.dll
+C:\Documents and Settings\Adam Labbe\My Documents\Visual Studio 2005\Projects\Woah\WoahFish\Woah\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Adam Labbe\My Documents\Visual Studio 2005\Projects\Woah\WoahFish\Woah\obj\Debug\Woah.Icon1.ico
+C:\Documents and Settings\Adam Labbe\My Documents\Visual Studio 2005\Projects\Woah\WoahFish\Woah\obj\Debug\Woah.Icon2.ico
+C:\Documents and Settings\Adam Labbe\My Documents\Visual Studio 2005\Projects\Woah\WoahFish\Woah\obj\Debug\Woah.WoahFish.resources
+C:\Documents and Settings\Adam Labbe\My Documents\Visual Studio 2005\Projects\Woah\WoahFish\Woah\obj\Debug\Woah.Properties.Resources.resources
+C:\Documents and Settings\Adam Labbe\My Documents\Visual Studio 2005\Projects\Woah\WoahFish\Woah\obj\Debug\Woah.csproj.GenerateResource.Cache
+C:\Documents and Settings\Adam Labbe\My Documents\Visual Studio 2005\Projects\Woah\WoahFish\Woah\obj\Release\Woah.exe
+C:\Documents and Settings\Adam Labbe\My Documents\Visual Studio 2005\Projects\Woah\WoahFish\Woah\obj\Release\Woah.pdb
+C:\Documents and Settings\Adam Labbe\My Documents\Visual Studio 2005\Projects\Woah\WoahFish\Woah\bin\Release\Woah.exe
+C:\Documents and Settings\Adam Labbe\My Documents\Visual Studio 2005\Projects\Woah\WoahFish\Woah\bin\Release\Woah.pdb
+C:\Documents and Settings\Adam Labbe\My Documents\Visual Studio 2005\Projects\Woah\WoahFish\Woah\bin\Release\Meebey.SmartIrc4net.dll
+C:\Documents and Settings\Adam Labbe\My Documents\Visual Studio 2005\Projects\Woah\WoahFish\Woah\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Adam Labbe\My Documents\Visual Studio 2005\Projects\Woah\WoahFish\Woah\obj\Release\Woah.Icon1.ico
+C:\Documents and Settings\Adam Labbe\My Documents\Visual Studio 2005\Projects\Woah\WoahFish\Woah\obj\Release\Woah.Icon2.ico
+C:\Documents and Settings\Adam Labbe\My Documents\Visual Studio 2005\Projects\Woah\WoahFish\Woah\obj\Release\Woah.WoahFish.resources
+C:\Documents and Settings\Adam Labbe\My Documents\Visual Studio 2005\Projects\Woah\WoahFish\Woah\obj\Release\Woah.Properties.Resources.resources
+C:\Documents and Settings\Adam Labbe\My Documents\Visual Studio 2005\Projects\Woah\WoahFish\Woah\obj\Release\Woah.csproj.GenerateResource.Cache

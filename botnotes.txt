@@ -1,0 +1,12 @@
+2) You *can* put strings in LUA array elements and read them! If an array element holds a string instead of a float, read a 4-byte pointer from the same address the float would have been stored in:
+
+[PTR]+0x10 - Length of the string, 4-byte integer
+[PTR]+0x14 - The string, one byte per char, null terminated
+
+
+Bot handles heals, Adam handles running and CC
+Input above info into PlayerNames.Update.
+Lua code writes in all raid party members into array, name string followed by GUID string.
+Targeting handled by /focus
+
+Is there a way to determine LOS? If not, try getting error text for LOS texts

@@ -1,0 +1,6 @@
+## Interface: 20400
+## Title: AdamAtom
+## Notes: AdamAtom!
+## OptionalDeps:
+## Dependencies:
+adamatom.xml 
